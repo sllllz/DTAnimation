@@ -1,0 +1,17 @@
+{
+    "name": "Extend.DTAnimation.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e5ae0611fe563644280a63c42cb4692e",
+        "GUID:70f8501ee45923d4eb957a54a8fe19dd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

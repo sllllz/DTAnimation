@@ -1,0 +1,15 @@
+{
+    "name": "Extend.DTAnimation",
+    "references": [
+        "GUID:da818f7e14d0f57449ef23e156b8d241"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
